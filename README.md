@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cse-9124&label=Profile%20views&color=0e75b6&style=flat" alt="cse-9124" /> </p>
 
-
+<img align="right" height="800" width="400" alt="GIF" src="https://raw.githubusercontent.com/CSE-9124/CSE-9124/main/helloworld.gif">
 
 - 🌱 I’m currently learning **Unity, Game Developer**
 
