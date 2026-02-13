@@ -98,7 +98,10 @@
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="15"><b> Github Stats </b></h3>
 
 <div align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cse-9124&" alt="cse-9124" /></p>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=CSE-9124&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+   <br>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CSE-9124&theme=midnight_purple" height="300px" width="350px" alt="GitHub Stats" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CSE-9124&theme=midnight_purple" height="300px" width="350px" alt="GitHub Stats" />
 </div>
 
 <!---
