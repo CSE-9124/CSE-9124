@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cse-9124&label=Profile%20views&color=0e75b6&style=flat" alt="cse-9124" /> </p>
 
-<img align="right" height="800" width="400" alt="GIF" src="https://raw.githubusercontent.com/CSE-9124/CSE-9124/main/helloworld.gif">
+<img align="right" width="400" alt="GIF" src="https://raw.githubusercontent.com/CSE-9124/CSE-9124/main/helloworld.gif">
 
 - 🌱 I’m currently learning **Unity, Game Developer**
 
@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://instagram.com/cholynsharon_" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cholynsharon_" height="30" width="40" />
-   </a>
-   <a href="https://www.linkedin.com/in/cholyn-sharon-enos-b06323383" target="blank">
-      <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" alt="cholyn-sharon-enos"/>
-   </a> 
+  <a href="https://instagram.com/cholynsharon_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/cholyn-sharon-enos-b06323383" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
 </p>
 
 <br>
